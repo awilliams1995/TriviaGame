@@ -1,0 +1,19 @@
+button{
+display: inline-block;
+ }
+ button:hover{
+background-color: black;
+color:white;
+ }
+ #start{
+  display: none;
+ }
+ .jumbotron{
+margin-top:20vh;
+margin-left:20vw;
+height:50vh;
+margin-right:20vw;
+ }
+*{
+  box-sizing: border-box;
+}
